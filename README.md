@@ -1,5 +1,6 @@
 # VideoPose3D colab
 
+请移步至[github](https://github.com/Ziqi-Yang/VideoPose3D_colab),有`colab`的图标。
 提供[VideoPose3D](https://github.com/facebookresearch/VideoPose3D)自定义训练的colab文件
 
 - 单个，详细模式 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ziqi-Yang/VideoPose3D_colab/blob/main/VideoPose3D.ipynb)  
